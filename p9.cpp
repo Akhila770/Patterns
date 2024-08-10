@@ -17,3 +17,15 @@ int main()
 		printf("\n");
 	}
 }
+
+
+
+/*output
+enter value of n:5
+           *
+         * *
+       * * *
+     * * * *
+   * * * * *    
+   
+   */
