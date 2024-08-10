@@ -16,3 +16,12 @@ int main()
 		printf("\n");
 	}
 }
+
+
+/* enter value of n:6
+*
+* *
+*   *
+*     *
+*       *
+* * * * * *           */
