@@ -21,3 +21,13 @@ int main()
 	}
 	return 0;
 }
+
+/* output
+
+enter n:5
+*****
+*   *
+*   *
+*   *
+*****
+	*/
